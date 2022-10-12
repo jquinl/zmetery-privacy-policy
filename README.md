@@ -1,2 +1,2 @@
 # zmetery-privacy-policy
-Privacy policy require topublish in android app store
+Privacy policy required to publish in android app store
